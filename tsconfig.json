@@ -1,0 +1,8 @@
+{
+    "files": [
+        "src/RxSails.ts"
+    ],
+    "compilerOptions": {
+        "module": "commonjs"
+    }
+}
